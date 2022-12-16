@@ -24,5 +24,5 @@ ____
 
 #### Repository Contents
 
-This repository contains two folders: the Data folder, containing all data collected for this project from the National Center for Education Statistics' Integrated Postsecondary Education Data System, and the Code folder, containing the notebooks used in this project. The first notebook, Data Cleaning, contains the steps needed to construct the dataset analyzed in this project. The second notebook, EDA and Modeling, contains the exploratory data analysis and regression models used to answer this project's research question.
+This repository contains three files: ```Data.zip```, containing all data collected for this project from the National Center for Education Statistics' Integrated Postsecondary Education Data System; ```Data Cleaning.ipynb```, containing the steps needed to construct the dataset analyzed in this project; and ```EDA and Modeling.ipynb```, containing the exploratory data analysis and regression models used to answer this project's research question.
 
